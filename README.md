@@ -1,2 +1,2 @@
 # Karakokebar
-Actividad de Nadia
+Practica de git basica
